@@ -143,7 +143,7 @@ def start_trading(username, password):
     driver.quit ()
 
 
-start_trading ('madihaatta59@gmail.com', 'madiha.atta@2005')
+start_trading ('mad*******gmail.com', '***********')
 
 
 
